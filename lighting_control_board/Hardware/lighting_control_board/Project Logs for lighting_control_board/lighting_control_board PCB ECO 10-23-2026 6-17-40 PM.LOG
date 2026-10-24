@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=+3V3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+3V3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=+3V3 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=+3V3 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Member To Class: ClassName=lighting_control_board Member=Component C10 100 nF
+Added Member To Class: ClassName=lighting_control_board Member=Component C11 100 nF
+Added Member To Class: ClassName=lighting_control_board Member=Component C12 100 nF
+Added Member To Class: ClassName=lighting_control_board Member=Component C13 100 nF
